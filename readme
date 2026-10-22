@@ -1,0 +1,12 @@
+# Fast-Food Party Storage – Java Data Structures Project
+Student Name: Pablo Carvalho
+Student ID: 2024631
+
+Link Video:
+Poster Link:
+
+
+# Assessment Outline
+You are required to solve a problem using JAVA programming language based on the below mentioned scenario.
+A fast-food restaurant provides five different types of food for parties: Burger, Pizza, Fries, Sandwich, and Hotdog. These food items are stored in a rectangular storage unit with two sides: one at the front and one on the opposite side. However, the chef can either use the front side for both adding and removing food items or use the front side for adding food items and the opposite side for removing them. The storage can hold up to 8 trays at a time, and the food items have different weights and names that must be tracked as they are placed into and removed from the storage. The Java application should store each food item’s information, including its name, weight (grams), the best-before date (maximum of two weeks), and the time it was placed into the storage.
+
