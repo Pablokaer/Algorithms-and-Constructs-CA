@@ -16,5 +16,4 @@ public class FoodStorage {
     private LocalDateTime placedAt;
 
 
-
 }
